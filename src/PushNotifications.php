@@ -102,7 +102,7 @@ class PushNotifications {
 
     /**
      * @param array $interests
-     * @param array<string> $publishRequest
+     * @param array $publishRequest
      * @return mixed
      * @throws \Exception
      */
